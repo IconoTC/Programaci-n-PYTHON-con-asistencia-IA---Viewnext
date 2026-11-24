@@ -1,0 +1,31 @@
+fecha,servidor,tipo,tamano_gb,duracion_minutos
+2026-10-05,Correo,completa,414.2,183
+2026-10-06,Correo,incremental,18.8,17
+2026-10-07,Servidor web,incremental,42.9,45
+2026-10-08,Servidor web,completa,349.7,166
+2026-10-09,Servidor web,incremental,12.4,11
+2026-10-10,Servidor web,incremental,35.5,34
+2026-10-11,Correo,completa,131.7,66
+2026-10-12,Servidor web,incremental,23.2,20
+2026-10-13,Servidor web,incremental,6.4,8
+2026-10-14,Ficheros,completa,418.1,186
+2026-10-15,Servidor web,incremental,6.5,7
+2026-10-16,Servidor web,incremental,42.3,42
+2026-10-17,Servidor web,completa,264.0,137
+2026-10-18,Correo,incremental,26.7,29
+2026-10-19,Correo,incremental,43.7,43
+2026-10-20,Base de datos,completa,390.5,191
+2026-10-21,Correo,incremental,40.4,42
+2026-10-22,Servidor web,incremental,7.5,7
+2026-10-23,Correo,completa,409.4,181
+2026-10-24,Base de datos,incremental,8.3,13
+2026-10-25,Ficheros,incremental,13.5,18
+2026-10-26,Servidor web,completa,278.2,124
+2026-10-27,Ficheros,incremental,39.4,42
+2026-10-28,Base de datos,incremental,19.4,24
+2026-10-29,Base de datos,completa,383.3,178
+2026-10-30,Servidor web,incremental,20.4,24
+2026-10-31,Base de datos,incremental,13.8,19
+2026-11-01,Ficheros,completa,269.8,136
+2026-11-02,Correo,incremental,8.4,11
+2026-11-03,Correo,incremental,9.7,15
