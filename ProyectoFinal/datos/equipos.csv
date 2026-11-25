@@ -1,0 +1,22 @@
+id,nombre,servicio,entorno,estado,cpu,memoria,disco
+1,srv-web-01,nginx,prod,OK,42,61,55
+2, srv-web-02 ,nginx,prod,AVISO,76,69,72
+3,srv-web-03,nginx,pre,OK,35,48,40
+4,srv-db-01,postgresql,prod,OK,58,81,64
+5,srv-db-02,postgresql,Prod,error,91,88,93
+6,srv-db-03,postgresql,pre,OK,44,52,61
+7,srv-app-01,tomcat,PROD ,OK,55,63,58
+8,srv-app-02,tomcat,prod,OK,86,72,66
+9,srv-app-03,tomcat, pre,Aviso,62,70,68
+10,srv-dns-01,bind9,prod,OK,12,30,25
+19,srv-web-04,nginx,prod,OK,,58,60
+11,srv-dns-02,bind9,prod,OK,15,33,27
+12,srv-mail-01, postfix,prod,OK,48,59,82
+13,srv-mail-02,postfix,prod,OK,51,64,91
+14,srv-bkp-01,bacula,prod,OK,22,40,78
+7,srv-app-01,tomcat,PROD ,OK,55,63,58
+15,srv-bkp-02,bacula,pre,ok ,25,44,66
+16,srv-mon-01,zabbix,prod,OK,37,55,49
+17,srv-mon-02,zabbix,Pre,OK,70,50,45
+18,srv-file-01,samba,prod,OK,30,45,60
+20,srv-app-04,tomcat,pre,OK,40,,52
